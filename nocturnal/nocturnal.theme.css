@@ -44,7 +44,7 @@ This theme is meant to be used with the dark version of discord
   --backgroundName: rgba(0,0,0,.2);
   
   /* Radial Status */
-  --rs-small-spacing: 2px;
+  --rs-small-spacing: 1px;
   --rs-large-spacing: 3px;
   --rs-width: 2px;
   --rs-avatar-shape: 50%;
